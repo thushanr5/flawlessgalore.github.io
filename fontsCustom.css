@@ -1,0 +1,17 @@
+/*
+fonts for this website that I imported from Google
+*/
+@import url('https://fonts.googleapis.com/css2?family=Blaka&family=Inconsolata:wght@200;300&family=Mouse+Memoirs&family=Nunito:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Blaka&family=Inconsolata:wght@200;300&family=Mouse+Memoirs&family=Nunito:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Blaka&family=Inconsolata:wght@200;300&family=Mouse+Memoirs&family=Nunito:wght@200&display=swap');
+
+#textfooterOne{
+    font-family: 'Inconsolata', monospace;
+    font-weight: bold;
+    font-size: 120%;
+    
+}
+
+#footerBtn{
+    background-color: #888888;
+}
